@@ -21,3 +21,24 @@ For administrators, the site offers extensive management capabilities, including
 ![Home Page](samples/5.png)
 - **List of Dormitories:** Displays a list of available rooms.
 ![Home Page](samples/2.png)
+
+### List of Rooms Page
+- **Room Listings:** Shows all rooms available for booking.
+![Home Page](samples/3.png)
+
+### Admin Page
+- **Dashboard:** Displays information about students, rooms, logs, and payments.
+- **Management:** Admins can add, edit, and delete content, manage user accounts, and perform other administrative tasks.
+![Home Page](samples/7.png)
+![Home Page](samples/8.png)
+
+## Database Operations
+
+### Insert Function
+Used for adding new data to the database, such as registering a student or reserving a room. This operation automatically updates relevant data, such as `student_dorm_data` and `student_stay_data`.
+
+### Delete Function
+Used for removing data from the database, including student data, room data, and log data. It also ensures related data, like room occupants and available beds, are updated accordingly.
+
+### Edit Function
+Used for modifying existing data in the database, such as student and room information. Students can edit their data via their profile page, while admins can use the admin panel for edits.
