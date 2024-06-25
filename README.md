@@ -16,5 +16,8 @@ For administrators, the site offers extensive management capabilities, including
 ### Home Page
 - **Navigation:** Links to the About page, Contact page, and other relevant pages.
 - **Slider Animation:** Enhances the visual appeal of the page.
+![Home Page](samples/1.png)
 - **Login/Registration:** Allows users to log in or register on the website.
+![Home Page](samples/5.png)
 - **List of Dormitories:** Displays a list of available rooms.
+![Home Page](samples/2.png)
