@@ -1,9 +1,7 @@
 # RS Dormitory Database
 
 ## Authors
-- Achilles Joaquin S. Zubia 
-- Deangelo M. Enriquez 
-- Marwin O. Matic 
+- Achilles Joaquin S. Zubia
 
 ## Introduction
 
