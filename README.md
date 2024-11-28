@@ -1,8 +1,5 @@
 # RS Dormitory Database
 
-## Authors
-- Achilles Joaquin S. Zubia
-
 ## Introduction
 
 RS Dormitories is a comprehensive website designed to assist college students in finding dormitory rooms available for rent while attending their respective universities. It provides detailed information about various dormitories across the country, including location, room availability, and pricing.
